@@ -1,5 +1,5 @@
 ---
-license: mit
+license: gpl-3.0
 library_name: 02769D
 tags:
 - sfcp
