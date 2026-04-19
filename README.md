@@ -1,4 +1,3 @@
----
 # 02769D
 > **GSM8K Zero-shot: 98.86% | GSM-Plus: 96.72% | 泛化下降仅 2.14%**
 > **This is NOT a model. This is a pipeline that makes models reliable.**
