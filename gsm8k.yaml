@@ -1,0 +1,7 @@
+- dataset:
+    id: gsm8k
+    task_id: default
+  value: 98.86
+  source:
+    url: https://github.com/02769D/02769D
+    name: 02769D SFCP Architecture
